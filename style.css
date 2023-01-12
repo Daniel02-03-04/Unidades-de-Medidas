@@ -1,0 +1,25 @@
+/* body {
+    font-size: 16px;
+} */
+
+.section1 {
+    background-color: rgb(192, 192, 226);
+    width: 500px;
+    margin: 0 auto;
+    font-size: 15px;
+    /* padding: 2rem; */
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1em;
+}
+
+@media(min-width: 480px) {
+    body {
+        font-size: 35px;
+    }
+}
